@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i(F_TAG, "first  commit changes - by Friend");
         Log.i(F_TAG, "fweb hook test");
          Log.i(F_TAG, "secondfweb hook test");
+          Log.i(F_TAG, "secondfweb hook test");
 
 
 
